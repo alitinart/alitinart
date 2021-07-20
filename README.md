@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning node.js
 - 🇽🇰  I live in Kosovo.
 - 🖥  I am a full stack web developer and also a Jr.Python Software Developer
+- 🤖  My portfolio : https://www.nartaliti.me
