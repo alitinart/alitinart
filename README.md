@@ -2,5 +2,5 @@
 - 👀 I’m interested in Angular and Ionic Technologies
 - 🌱 I’m currently learning Angular
 - 🇽🇰  I live in Kosovo.
-- 🖥  I am a Fullstack Web Developer
+- 🖥  I am a Full Stack Web Developer
 - 🤖  My portfolio : https://www.nartaliti.me
