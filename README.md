@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alitinart
-- 👀 I’m interested in Software Developent
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in Angular and Ionic Technologies
+- 🌱 I’m currently learning Angular
 - 🇽🇰  I live in Kosovo.
 - 🖥  I am a Fullstack Web Developer
 - 🤖  My portfolio : https://www.nartaliti.me
