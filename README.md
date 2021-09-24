@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Developent
 - 🌱 I’m currently learning node.js
 - 🇽🇰  I live in Kosovo.
-- 🖥  I am a junior full stack web developer and also a junior Python Software Developer
+- 🖥  I am a Fullstack Web Developer
 - 🤖  My portfolio : https://www.nartaliti.me
