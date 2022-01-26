@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alitinart
 - 👀 I’m interested in ReactJS and React Native Technologies
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Java
 - 🖥  I am a Full Stack Web Developer
 - 🤖  My portfolio : https://www.nartaliti.me
