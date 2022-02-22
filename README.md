@@ -1,9 +1,9 @@
 <p align="center">
-  👋 Hi, I’m @alitinart
-  👀 I’m interested in ReactJS and React Native Technologies
-  🌱 I’m currently learning Java
-  🖥  I am a Full Stack Web Developer
-  🤖  My portfolio : https://www.nartaliti.me
+  👋 Hi, I’m @alitinart <br>
+  👀 I’m interested in ReactJS and React Native Technologies<br>
+  🌱 I’m currently learning Java<br>
+  🖥  I am a Full Stack Web Developer<br>
+  🤖  My portfolio : https://www.nartaliti.me<br>
 </p>
 
 <p align="center">
