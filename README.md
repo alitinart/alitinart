@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/GravityScriptsV2">
+  <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
 </p>
