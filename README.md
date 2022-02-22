@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I’m @alitinart
+  Hi 👋, I’m @alitinart
 </h1>
 
 <p align="center">
