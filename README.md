@@ -2,13 +2,6 @@
   Hi 👋, I’m @alitinart
 </h1>
 
-<h5 align="center">
-  Checkout my Social Media !
-</h5>
-<p>
-<img src="https://www.xore.se/wp-content/uploads/2019/11/glyph-logo_May2016.png" alt="Instagram Logo" /> @atomic_development
-</p>
-
 <p align="center">
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
