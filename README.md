@@ -2,9 +2,12 @@
   Hi 👋, I’m @alitinart
 </h1>
 
-<h4 align="center">
+<h5 align="center">
   Checkout my Social Media !
-</h1>
+</h5>
+<p>
+<img src="https://www.xore.se/wp-content/uploads/2019/11/glyph-logo_May2016.png" alt="Instagram Logo" /> @atomic_development
+</p>
 
 <p align="center">
   <a href="https://github.com/alitinart">
