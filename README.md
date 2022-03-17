@@ -2,6 +2,10 @@
   Hi 👋, I’m @alitinart
 </h1>
 
+<h4 align="center">
+  Checkout my Social Media !
+</h1>
+
 <p align="center">
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
