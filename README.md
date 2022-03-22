@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I’m <a href="https://instagram.com/atomic_development" style="text-decoration:underline">@alitinart</a>
+  Hi 👋, I’m <a href="https://instagram.com/atomic_development">@alitinart</a>
 </h1>
 
 <p align="center">
