@@ -9,7 +9,7 @@
 </p>
 
 <details open>
-   <summary>🛠 <b>Tools I've used</b></summary>
+   <summary align="center">🛠 <b>Tools I've used</b></summary>
    <p>
    <p align="center">
       <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
