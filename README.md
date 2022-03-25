@@ -30,7 +30,7 @@
    </p>
 </details>
 
-<p align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=alitinart)</p>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alitinart)
 
 <p align="center">
 <a href="https://discord.com/users/173557815326015488" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
