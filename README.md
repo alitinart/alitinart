@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header-image.png)
 <h1 align="center">
   Hi 👋, I’m <a href="https://instagram.com/atomic_development">@alitinart</a>
 </h1>
