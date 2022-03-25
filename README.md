@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" />
       <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
       <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
+      <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular" />
       <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma" />
       <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
    </p>
