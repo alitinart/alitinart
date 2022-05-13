@@ -51,5 +51,3 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/356048059018248205?bg=0a0f16" alt="Discord Profile"/>
   </a>
 </p>
-
-<iframe src="https://nartaliti.me"></iframe>
