@@ -42,7 +42,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" /></p>
-
-<p align="center">
-<a href="https://discord.com/users/173557815326015488" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-</p>
