@@ -3,7 +3,7 @@
 
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
-  </a>
+  </a><br />
 
 <details open>
    <summary>🛠 <b>Tools I've used</b></summary><br />
@@ -29,11 +29,11 @@
    </p>
 </details>
 
-<h2>🔥 Recent streak</h2> <br />
+<h2>🔥  Recent streak</h2> <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
 
-<h2>📈 GitHub Stats</h2> <br />
+<h2>📈  GitHub Stats</h2> <br />
 <img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
 
-<h2>💻 Most used languages</h2> <br />
+<h2>💻  Most used languages</h2> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
