@@ -1,9 +1,10 @@
 [![Header](./github-header-image.png)](https://nartaliti.me)
 
-  <a align="center" href="https://github.com/alitinart">
+<p align="center">
+  <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
-  </a><br /><br />
-
+  </a><br />
+</p>
 <details open>
    <summary align="center">🛠 <b>Tools I've used</b></summary><br />
    <p align="center">
