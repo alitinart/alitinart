@@ -1,6 +1,6 @@
 [![Header](./github-header-image.png)](https://nartaliti.me)
 
-
+<p align="center">
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a><br /><br />
@@ -37,3 +37,4 @@
 
 <h2>💻  Most used languages</h2> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
+</p>
