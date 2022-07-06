@@ -6,7 +6,7 @@
   </a>
 
 <details open>
-   <summary>🛠 <b>Tools I've used</b></summary>
+   <summary>🛠 <b>Tools I've used</b></summary><br />
    <p>
       <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
       <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
@@ -29,8 +29,11 @@
    </p>
 </details>
 
+<p>🔥 Recent streak</p> <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
 
+<p>📈 GitHub Stats</p> <br />
 <img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
 
+<p>💻 Most used languages</p> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
