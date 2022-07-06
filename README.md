@@ -3,7 +3,7 @@
 
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
-  </a><br />
+  </a><br /><br />
 
 <details open>
    <summary>🛠 <b>Tools I've used</b></summary><br />
