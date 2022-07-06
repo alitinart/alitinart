@@ -5,8 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
 
-<a href="https://instagram.com/atomic_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
-
 <details open>
    <summary>🛠 <b>Tools I've used</b></summary>
    <p>
