@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma" />
       <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
    </p>
-</details>
+</details> <br /><br />
 
 <h2>🔥  Recent streak</h2> <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
