@@ -1,13 +1,13 @@
 [![Header](./github-header-image.png)](https://nartaliti.me)
 
 <p align="center">
-  <a href="https://github.com/alitinart">
+  <a align="center" href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a><br /><br />
 
 <details open>
-   <summary>🛠 <b>Tools I've used</b></summary><br />
-   <p>
+   <summary align="center">🛠 <b>Tools I've used</b></summary><br />
+   <p align="center">
       <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
       <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
       <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -29,12 +29,12 @@
    </p>
 </details> <br /><br />
 
-<h2>🔥  Recent streak</h2> <br />
+<h2 align="center">🔥  Recent streak</h2> <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
 
-<h2>📈  GitHub Stats</h2> <br />
+<h2 align="center">📈  GitHub Stats</h2> <br />
 <img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
 
-<h2>💻  Most used languages</h2> <br />
+<h2 align="center">💻  Most used languages</h2> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
 </p>
