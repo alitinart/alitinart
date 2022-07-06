@@ -29,11 +29,11 @@
 </details> <br /><br />
 
 <h2 align="center">🔥  Recent streak</h2> <br />
-<img align="center" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" /></p>
 
 <h2 align="center">📈  GitHub Stats</h2> <br />
-<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" /></p>
 
 <h2 align="center">💻  Most used languages</h2> <br />
-<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" /></p>
 
