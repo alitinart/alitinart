@@ -6,8 +6,8 @@
   </a>
 
 
-Checkout Some Socials:
-<a href="https://instagram.com/atomic_development" target="blank" style="margin-top:10px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
+Checkout Some Socials: <br />
+<a href="https://instagram.com/atomic_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
 
 <details open>
    <summary>🛠 <b>Tools I've used</b></summary>
