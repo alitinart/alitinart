@@ -1,15 +1,13 @@
 [![Header](./github-header-image.png)](https://nartaliti.me)
 
-<p align="center">
+
   <a href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
-</p>
 
-<h3 align="center">Checkout Some Socials:</h3>
-<p align="center">
+
+Checkout Some Socials:
 <a href="https://instagram.com/atomic_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
-</p>
 
 <details open>
    <summary align="center">🛠 <b>Tools I've used</b></summary>
@@ -36,9 +34,8 @@
    </p>
 </details>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
