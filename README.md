@@ -6,7 +6,7 @@
   </a>
 
 
-Checkout Some Socials: <br />
+Checkout Some Socials: <br /><br />
 <a href="https://instagram.com/atomic_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
 
 <details open>
