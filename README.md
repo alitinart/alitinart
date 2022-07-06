@@ -10,9 +10,8 @@ Checkout Some Socials:
 <a href="https://instagram.com/atomic_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atomic_development" height="30" width="40" /></a>
 
 <details open>
-   <summary align="center">🛠 <b>Tools I've used</b></summary>
+   <summary>🛠 <b>Tools I've used</b></summary>
    <p>
-   <p align="center">
       <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
       <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
       <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
