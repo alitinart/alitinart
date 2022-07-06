@@ -1,6 +1,5 @@
 [![Header](./github-header-image.png)](https://nartaliti.me)
 
-<p align="center">
   <a align="center" href="https://github.com/alitinart">
     <img src="https://komarev.com/ghpvc/?username=alitinart&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a><br /><br />
@@ -30,11 +29,11 @@
 </details> <br /><br />
 
 <h2 align="center">🔥  Recent streak</h2> <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
+<img align="center" margin="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=alitinart&theme=dark" alt="alitinart" />
 
 <h2 align="center">📈  GitHub Stats</h2> <br />
-<img src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
+<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=alitinart&count_private=true&show_icons=true&theme=dark" />
 
 <h2 align="center">💻  Most used languages</h2> <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
-</p>
+<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitinart&show_icons=true&locale=en&layout=compact&theme=dark" alt="alitinart" />
+
